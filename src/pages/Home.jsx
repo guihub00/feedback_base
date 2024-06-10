@@ -29,9 +29,9 @@ export function Home() {
      
   ) : (
     <CardContainer>
-      <img src={thankYouImg} alt="" />
+    <img src={thankYouImg} alt="" />
 
-      <ResultContainer>
+     <ResultContainer>
         <p>Você selecinou 4 de 5</p>
       </ResultContainer>
 
